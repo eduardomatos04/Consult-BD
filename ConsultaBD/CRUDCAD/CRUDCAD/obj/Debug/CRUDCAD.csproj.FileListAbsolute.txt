@@ -1,0 +1,14 @@
+C:\Users\Redes\Desktop\ah-pronto\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.csprojAssemblyReference.cache
+C:\Users\Redes\Desktop\ah-pronto\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.csproj.CoreCompileInputs.cache
+C:\Users\Redes\Desktop\ah-pronto\CRUDCAD\CRUDCAD\bin\Debug\CRUDCAD.exe.config
+C:\Users\Redes\Desktop\ah-pronto\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.exe
+C:\Users\Redes\Desktop\ah-pronto\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.pdb
+C:\Users\Redes\Desktop\ah-pronto\CRUDCAD\CRUDCAD\bin\Debug\CRUDCAD.exe
+C:\Users\Redes\Desktop\ah-pronto\CRUDCAD\CRUDCAD\bin\Debug\CRUDCAD.pdb
+C:\Users\PC\Documents\ConsultaBD\CRUDCAD\CRUDCAD\bin\Debug\CRUDCAD.exe.config
+C:\Users\PC\Documents\ConsultaBD\CRUDCAD\CRUDCAD\bin\Debug\CRUDCAD.exe
+C:\Users\PC\Documents\ConsultaBD\CRUDCAD\CRUDCAD\bin\Debug\CRUDCAD.pdb
+C:\Users\PC\Documents\ConsultaBD\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.csprojAssemblyReference.cache
+C:\Users\PC\Documents\ConsultaBD\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ConsultaBD\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.exe
+C:\Users\PC\Documents\ConsultaBD\CRUDCAD\CRUDCAD\obj\Debug\CRUDCAD.pdb
